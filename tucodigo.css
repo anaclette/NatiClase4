@@ -1,0 +1,99 @@
+.uno {
+	width: 380px;
+	padding: 16px;
+	border: 3px green;
+	border-style: dotted;
+}
+
+img {
+	margin: 12px;
+	float: left;
+}
+
+.dos {
+	border: 3px green;
+	border-style: dotted;
+	height: 100px;
+	margin-right: 600px;
+	padding: 20px;
+}
+
+.cajas {
+	display: block;
+	float: right;
+}
+.caja {
+	width: 130px;
+	height: 75px;
+	border: 1px solid purple;
+	color: black;
+	background: lightblue;
+	float: left;
+	line-height: 69px;
+	text-align: center;
+}
+
+nav {
+	width: 100%;
+	height: 50px;
+	background-color: rgb(238, 238, 238);
+	display: block;
+	padding-top: 3px;
+	position: sticky;
+	top: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	display: inline;
+	box-sizing: content-box;
+	background-color: rgb(238, 238, 238);
+	padding: 17px;
+}
+
+li:hover {
+	background-color: rgb(242, 250, 290);
+}
+
+.tres {
+	width: 600px;
+	padding: 16px;
+	border: 3px darkred;
+	border-style: dotted;
+	border-collapse: collapse;
+	height: 200px;
+	overflow: scroll;
+	scroll-behavior: auto;
+}
+
+.texto {
+	margin-right: 440px;
+	overflow: hidden;
+}
+
+.columnas {
+	border: 3px green;
+	border-style: dotted;
+	width: 750px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.chuchu {
+	width: 195px;
+	padding: 20px;
+	display: inline-block;
+	border-right: solid 1px black;
+}
+
+img {
+	margin: 12px;
+	float: left;
+}
+
+.culo {
+	background-color: red;
+}
